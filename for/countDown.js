@@ -1,8 +1,3 @@
-/***
-
-Implement a countdown timer that counts down from 81 to 65.
-
- */
 console.log("Countdown Timer:");
 
 for (let i = 81; i >= 65; i--) {

@@ -49,8 +49,32 @@ Display sum of all the even numbers from 51 to 85.
 
 ***
 
-###
+###8
 ***
 Generate a multiplication table for number 9
+
+***
+
+###9
+***
+Implement a countdown timer that counts down from 81 to 65.
+
+***
+
+###10
+***
+
+Subtask-1:
+
+Find all the odd numbers from 61 to 100.
+
+***
+
+
+***
+
+Subtask-2:
+
+Find all the even numbers from 78 to 98.
 
 ***
